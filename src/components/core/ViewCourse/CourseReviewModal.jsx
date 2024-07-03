@@ -3,7 +3,7 @@ import { useForm } from "react-hook-form"
 import { RxCross2 } from "react-icons/rx"
 import ReactStars from "react-rating-stars-component"
 import { useSelector } from "react-redux"
-
+//courses
 import { createRating } from "../../../services/operations/courseDetailsAPI"
 import IconBtn from "../../Common/IconBtn"
 

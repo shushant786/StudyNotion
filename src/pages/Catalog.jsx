@@ -11,7 +11,7 @@ import { apiConnector } from "../services/apiConnector"
 import { categories } from "../services/apis"
 import { getCatalogPageData } from "../services/operations/pageAndComponntDatas"
 import Error from "./Error"
-
+//catelog
 function Catalog() {
   const { loading } = useSelector((state) => state.profile)
   const { catalogName } = useParams()

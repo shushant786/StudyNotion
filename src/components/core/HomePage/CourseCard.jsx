@@ -3,7 +3,7 @@ import React from "react";
 // Importing React Icons
 import { HiUsers } from "react-icons/hi";
 import { ImTree } from "react-icons/im";
-
+//cards
 const CourseCard = ({cardData, currentCard, setCurrentCard}) => {
   return (
     <div

@@ -2,7 +2,7 @@ import { useSelector } from "react-redux"
 import { Outlet } from "react-router-dom"
 
 import Sidebar from "../components/core/Dashboard/Sidebar"
-
+//dashboard
 function Dashboard() {
   const { loading: profileLoading } = useSelector((state) => state.profile)
   const { loading: authLoading } = useSelector((state) => state.auth)

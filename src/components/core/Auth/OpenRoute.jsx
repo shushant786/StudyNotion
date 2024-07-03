@@ -1,7 +1,7 @@
 // This will prevent authenticated users from accessing this route
 import { useSelector } from "react-redux"
 import { Navigate } from "react-router-dom"
-
+//route
 function OpenRoute({ children }) {
   const { token } = useSelector((state) => state.auth)
 

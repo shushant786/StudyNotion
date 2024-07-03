@@ -2,7 +2,8 @@ import React from "react";
 import CTAButton from "./Button";
 import { TypeAnimation } from "react-type-animation";
 import { FaArrowRight } from "react-icons/fa";
-
+import Button from "./Button";
+//Button
 const CodeBlocks = ({
   position,
   heading,
