@@ -20,7 +20,7 @@ function VerifyEmail() {
     }
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
-
+//data
   const handleVerifyAndSignup = (e) => {
     e.preventDefault();
     const {
