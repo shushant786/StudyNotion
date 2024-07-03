@@ -1,5 +1,5 @@
 import { createSlice } from "@reduxjs/toolkit";
-
+//auth
 const initialState = {
   signupData: null,
   loading: false,
